@@ -29,15 +29,12 @@ jflex词法分析
 
 ### 执行测试
 
-    下载目录到本地
+下载目录到本地
     
-        ```shell
-            git clone https://github.com/Ethan-zhengyw/jflex-clang.git
-        ```
+        git clone https://github.com/Ethan-zhengyw/jflex-clang.git
+        
     
-    依次执行下面两个命令
+依次执行下面两个命令
     
-        ```shell
-            make
-            ./run_test.sh
-        ```
+        make
+        ./run_test.sh
