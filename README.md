@@ -10,7 +10,6 @@ jflex词法分析
 
 ### 目录结构
 
-    ```
     ▾ jflex-clang/
       ▾ bin/
           Lexer.class
@@ -27,17 +26,14 @@ jflex词法分析
         makefile
         README.md
         run_test.sh*
+
+### 执行测试
+
     ```
-
-## 执行测试
-
-
-    ```shell
-    git clone https://github.com/Ethan-zhengyw/jflex-clang.git
-    ```
-
-    ```shell
-    make
-    ./run_test.sh
+        git clone https://github.com/Ethan-zhengyw/jflex-clang.git
     ```
     
+    ```
+        make
+        ./run_test.sh
+    ```
