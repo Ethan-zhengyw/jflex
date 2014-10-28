@@ -8,8 +8,6 @@
 include = "#include"
 filename = <.*?>
 functionname = \w+\(.*?\)
-
-
 comma = ","
 semicolon = ";"
 bracket_3_left = "{"
@@ -27,21 +25,17 @@ int = "int"
 double = "double"
 if = "if"
 return = "return"
+number = \d+
+id = \w+
+string = \"\w+\"
 space = [\n\r]
-
 
 %%
 
 <YYINITIAL> {
-    //{space} { System.out.print(""); }
-    //{include} { System.out.println(new Yytoken(1, yytext()).toString()); }
-    //{string} { return new Yytoken(4, yytext()); }
-
-    {include}   { return new Yytoken(1, yytext()); }
-    {filename} { return new Yytoken(2, yytext()); }
-    {functionname} { return new Yytoken(3, yytext()); }
-
-
+    {include}	{ return new Yytoken(1, yytext()); }
+    {filename}	{ return new Yytoken(2, yytext()); }
+    {functionname}	{ return new Yytoken(3, yytext()); }
     {comma}   { return new Yytoken(6, yytext()); }
     {semicolon}   { return new Yytoken(7, yytext()); }
     {bracket_3_left}   { return new Yytoken(8, yytext()); }
@@ -59,8 +53,9 @@ space = [\n\r]
     {double}    { return new Yytoken(20, yytext()); }
     {if}    { return new Yytoken(21, yytext()); }
     {return}    { return new Yytoken(22, yytext()); }
-    \d+    { return new Yytoken(23, yytext()); }
-    \w+    { return new Yytoken(24, yytext()); }
+    {number}	{ return new Yytoken(23, yytext()); }
+    {id}	{ return new Yytoken(24, yytext()); }
+    {string}	{ return new Yytoken(4, yytext()); }
 }
 
 {space} {}
