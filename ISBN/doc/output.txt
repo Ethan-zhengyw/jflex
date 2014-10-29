@@ -1,0 +1,1158 @@
+match: --I--
+action [50] {  }
+match: --S--
+action [50] {  }
+match: --B--
+action [50] {  }
+match: --N--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --A--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --P--
+action [50] {  }
+match: --u--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --99921-58-10-7--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 99921-58-10-7)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --Q--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --t--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --N--
+action [50] {  }
+match: --C--
+action [50] {  }
+match: --C--
+action [50] {  }
+match: --A--
+action [50] {  }
+match: --H--
+action [50] {  }
+match: --,--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --D--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --9971-5-0210-0--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 9971-5-0210-0)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --S--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --W--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --d--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --S--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --t--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --f--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --960-425-059-0--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 960-425-059-0)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --G--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --S--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --m--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --P--
+action [50] {  }
+match: --u--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --t--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --80 902734-1-6--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 80 902734-1-6)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --C--
+action [50] {  }
+match: --z--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --R--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --u--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --;--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --S--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --v--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --T--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --t--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --P--
+action [50] {  }
+match: --u--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --85-359 0277-5--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 85-359 0277-5)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --B--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --z--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --C--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --m--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --d--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --L--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --t--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --1-84356-028-3--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 1-84356-028-3)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --S--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --m--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --W--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --P--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --0-684-84328-5--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 0-684-84328-5)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --S--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --0-8044-2957-X--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 0-8044-2957-X)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --F--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --d--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --c--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --U--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --0-85131-041-9--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 0-85131-041-9)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --J--
+action [50] {  }
+match: --.--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --A--
+action [50] {  }
+match: --.--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --A--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --&--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --C--
+action [50] {  }
+match: --o--
+action [50] {  }
+match: --.--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --0-94396-04-2--
+action [45] { return new Yytoken(10, yytext()); }
+false
+(Text: 10    index : 0-94396-04-2)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --W--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --m--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --\u2013--
+action [50] {  }
+match: --B--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --0-9752298-0-X--
+action [45] { return new Yytoken(10, yytext()); }
+true
+(Text: 10    index : 0-9752298-0-X)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --K--
+action [50] {  }
+match: --T--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --P--
+action [50] {  }
+match: --u--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --0-975298-0-1--
+action [45] { return new Yytoken(10, yytext()); }
+false
+(Text: 10    index : 0-975298-0-1)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --E--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --p--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: --k--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --a--
+action [50] {  }
+match: --r--
+action [50] {  }
+match: --e--
+action [50] {  }
+match: --a--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u0009--
+action [49] { System.out.println("Space"); }
+Space
+match: --K--
+action [50] {  }
+match: --T--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --P--
+action [50] {  }
+match: --u--
+action [50] {  }
+match: --b--
+action [50] {  }
+match: --l--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --s--
+action [50] {  }
+match: --h--
+action [50] {  }
+match: --i--
+action [50] {  }
+match: --n--
+action [50] {  }
+match: --g--
+action [50] {  }
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --978-0-596-52831-7--
+action [46] { return new Yytoken(13, yytext()); }
+true
+(Text: 13    index : 978-0-596-52831-7)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --978-1-873671-00-0--
+action [46] { return new Yytoken(13, yytext()); }
+true
+(Text: 13    index : 978-1-873671-00-0)
+
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+match: --1--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --8--
+action [50] {  }
+match: --7--
+action [50] {  }
+match: --6--
+action [50] {  }
+match: --7--
+action [50] {  }
+match: --1--
+action [50] {  }
+match: -----
+action [50] {  }
+match: --0--
+action [50] {  }
+match: --0--
+action [50] {  }
+match: --8--
+action [50] {  }
+match: -- --
+action [49] { System.out.println("Space"); }
+Space
+match: --\u000A--
+action [49] { System.out.println("Space"); }
+Space
+null

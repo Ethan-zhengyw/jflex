@@ -1,0 +1,271 @@
+match: --#include--
+action [36] { return new Yytoken(1, yytext()); }
+(Text: #include    index : 1)
+
+match: -- --
+action [62] {  }
+match: --<stdio.h>--
+action [37] { return new Yytoken(2, yytext()); }
+(Text: <stdio.h>    index : 2)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --int--
+action [52] { return new Yytoken(19, yytext()); }
+(Text: int    index : 19)
+
+match: -- --
+action [62] {  }
+match: --main(int a, int b)--
+action [38] { return new Yytoken(3, yytext()); }
+(Text: main(int a, int b)    index : 3)
+
+match: -- --
+action [62] {  }
+match: --{--
+action [41] { return new Yytoken(8, yytext()); }
+(Text: {    index : 8)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --int--
+action [52] { return new Yytoken(19, yytext()); }
+(Text: int    index : 19)
+
+match: -- --
+action [62] {  }
+match: --a--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: a    index : 24)
+
+match: -- --
+action [62] {  }
+match: --=--
+action [51] { return new Yytoken(18, yytext()); }
+(Text: =    index : 18)
+
+match: -- --
+action [62] {  }
+match: --1--
+action [56] { return new Yytoken(23, yytext()); }
+(Text: 1    index : 23)
+
+match: --;--
+action [40] { return new Yytoken(7, yytext()); }
+(Text: ;    index : 7)
+
+match: -- --
+action [62] {  }
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --int--
+action [52] { return new Yytoken(19, yytext()); }
+(Text: int    index : 19)
+
+match: -- --
+action [62] {  }
+match: --b--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: b    index : 24)
+
+match: -- --
+action [62] {  }
+match: --=--
+action [51] { return new Yytoken(18, yytext()); }
+(Text: =    index : 18)
+
+match: -- --
+action [62] {  }
+match: --2--
+action [56] { return new Yytoken(23, yytext()); }
+(Text: 2    index : 23)
+
+match: --;--
+action [40] { return new Yytoken(7, yytext()); }
+(Text: ;    index : 7)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --int--
+action [52] { return new Yytoken(19, yytext()); }
+(Text: int    index : 19)
+
+match: -- --
+action [62] {  }
+match: --c--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: c    index : 24)
+
+match: -- --
+action [62] {  }
+match: --=--
+action [51] { return new Yytoken(18, yytext()); }
+(Text: =    index : 18)
+
+match: -- --
+action [62] {  }
+match: --a--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: a    index : 24)
+
+match: -- --
+action [62] {  }
+match: --+--
+action [43] { return new Yytoken(10, yytext()); }
+(Text: +    index : 10)
+
+match: -- --
+action [62] {  }
+match: --b--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: b    index : 24)
+
+match: --;--
+action [40] { return new Yytoken(7, yytext()); }
+(Text: ;    index : 7)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --if--
+action [54] { return new Yytoken(21, yytext()); }
+(Text: if    index : 21)
+
+match: -- --
+action [62] {  }
+match: --(--
+action [45] { return new Yytoken(12, yytext()); }
+(Text: (    index : 12)
+
+match: --c--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: c    index : 24)
+
+match: -- --
+action [62] {  }
+match: --<--
+action [49] { return new Yytoken(16, yytext()); }
+(Text: <    index : 16)
+
+match: -- --
+action [62] {  }
+match: --0--
+action [56] { return new Yytoken(23, yytext()); }
+(Text: 0    index : 23)
+
+match: --)--
+action [46] { return new Yytoken(13, yytext()); }
+(Text: )    index : 13)
+
+match: -- --
+action [62] {  }
+match: --{--
+action [41] { return new Yytoken(8, yytext()); }
+(Text: {    index : 8)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --c--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: c    index : 24)
+
+match: -- --
+action [62] {  }
+match: --=--
+action [51] { return new Yytoken(18, yytext()); }
+(Text: =    index : 18)
+
+match: -- --
+action [62] {  }
+match: -----
+action [44] { return new Yytoken(11, yytext()); }
+(Text: -    index : 11)
+
+match: --c--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: c    index : 24)
+
+match: --;--
+action [40] { return new Yytoken(7, yytext()); }
+(Text: ;    index : 7)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --}--
+action [42] { return new Yytoken(9, yytext()); }
+(Text: }    index : 9)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --\u0009--
+action [62] {  }
+match: --return--
+action [55] { return new Yytoken(22, yytext()); }
+(Text: return    index : 22)
+
+match: -- --
+action [62] {  }
+match: --c--
+action [57] { return new Yytoken(24, yytext()); }
+(Text: c    index : 24)
+
+match: --;--
+action [40] { return new Yytoken(7, yytext()); }
+(Text: ;    index : 7)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+match: --}--
+action [42] { return new Yytoken(9, yytext()); }
+(Text: }    index : 9)
+
+match: --\u000D--
+action [62] {  }
+match: --\u000A--
+action [62] {  }
+null
