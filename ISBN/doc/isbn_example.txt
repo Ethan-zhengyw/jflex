@@ -1,16 +1,27 @@
-ISBN            Area    Publisher
-99921-58-10-7 	Qatar 	NCCAH, Doha
-9971-5-0210-0 	Singapore 	World Scientific
-960-425-059-0 	Greece 	Sigma Publications
-80 902734-1-6 	Czech Republic; Slovakia 	Taita Publishers
-85-359 0277-5 	Brazil 	Companhia das Letras
-1-84356-028-3 	English-speaking area 	Simon Wallenberg Press
-0-684-84328-5 	English-speaking area 	Scribner
-0-8044-2957-X 	English-speaking area 	Frederick Ungar
-0-85131-041-9 	English-speaking area 	J. A. Allen & Co.
-0-94396-04-2 	English-speaking area 	Willmann–Bell
-0-9752298-0-X 	English-speaking area 	KT Publishing
-0-975298-0-1 	English-speaking area 	KT Publishing
-978-0-596-52831-7 
-978-1-873671-00-0 
-1-87671-008 
+99921-58-10-7
+9971-5-0210-0
+960-425-059-0
+80 902734-1-6
+85-359 0277-5
+1-84356-028-3
+0-684-84328-5
+0-8044-2957-X
+0-85131-041-9
+0-94396-04-2
+0-9752298-0-X
+0-975298-0-1
+978-0-596-52831-7
+978-1-873671-00-0
+1-87671-008
+978-0-11-000222-4
+1-58488-540-8
+978-7-302-07800-5
+978 0 571 08989 5 	English 571
+978-0-11-000222-4
+1-58488-540-8
+978 5 571 08989 5 	Error
+978-7-302-07800-5	Chinese 302
+978-9 861-03085 2 	Other 861
+987—1-2-3		Error
+0-596-52831-0		English 596
+9bcasdasdlkas		Error

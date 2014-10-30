@@ -8,4 +8,4 @@ ISBNLexer.java: isbn.flex
 	jflex src/isbn.flex
 
 clean:
-	rm -rfv src/ISBNLexer.java src/*.swp doc/output.txt bin
+	rm -rfv src/ISBNLexer.java src/*.swp doc/output.txt bin src/*~
