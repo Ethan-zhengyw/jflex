@@ -1,0 +1,33 @@
+not True
+False or not False
+True xor False
+True or False
+False or False
+True and False
+True == False
+True != (False or True)
+102.3 > 102.1
+102.3 <= 101.99
+100 == 100
+
+
+10 * 5 > 50 ? True : False
+
+9 + 1
+102 - 2
+90 * (-5)
+1024 / 128
+976 + 24 == 1000 ? 1024 : 1034
+
+900 / (2-2)
+
+100 -(-2)
+
+(
+
++
+
+Example
+1+2 > 2+3
+1+2>2+3 ? True : False
+True and (1+2)>(2+3)
